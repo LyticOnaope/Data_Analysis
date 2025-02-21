@@ -51,7 +51,7 @@ The dataset includes information on:
 - **Insight:** Daytime accidents are more common due to higher traffic, but night driving remains a safety risk.
 
 ## 📈 Visualization
-![Road Accident Dashboard](accident_dashboard.png)
+![Road Accident Dashboard] accident_dashboard.png
 
 ## 🎯 Recommendations
 1. **Increase road safety awareness for car users** (since they contribute the most casualties).
@@ -70,7 +70,7 @@ This analysis provides actionable insights for improving road safety. By impleme
 
 📢 **Connect with Me:**  
 🔗 [GitHub Profile](https://github.com/LyticOnaope)  
-💼 [LinkedIn](www.linkedin.com/in/onaopemipo-olugbemiro-1b377828b)  
+💼 [LinkedIn](https://www.linkedin.com/in/onaopemipo-olugbemiro-1b377828b/)  
 
 🚀 **Project by [Onaope]**
 
