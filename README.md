@@ -14,7 +14,7 @@ Welcome to my portfolio! Here, you'll find my data analysis projects covering va
 - **66.25% of accidents happen in rural areas**
 - Wet road surfaces contribute significantly to accidents
 
-🔗 **[Project Repository]** https://github.com/LyticOnaope/road-accident-analysis
+🔗 **[Project Repository]** https://github.com/LyticOnaope/Onaope_Repository/tree/main/Road_Accident_Analysis
 
 ---
 
