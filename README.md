@@ -1,6 +1,6 @@
 # 📂 Data Analysis Portfolio
 
-Welcome to my portfolio! Here, you'll find my data analysis projects covering various domains, including road accidents and financial analysis. Each project is designed to showcase my skills in data cleaning, visualization, and insights generation using tools like **Excel, Python, and SQL**.
+Welcome to my portfolio! Here, you'll find my data analysis projects covering various domains, including road accidents, sales analytics, and financial analysis. Each project is designed to showcase my skills in data cleaning, visualization, and insights generation using tools like **Excel, Power BI, Python, and SQL**.
 
 ---
 
@@ -18,17 +18,30 @@ Welcome to my portfolio! Here, you'll find my data analysis projects covering va
 
 ---
 
-## 🛠 Tools & Skills
-- **Microsoft Excel** (Pivot Tables, Dashboards, Data Cleaning)
-- **Python** (Pandas, Matplotlib, Seaborn)
-- **SQL** (Data Querying, Joins, Aggregations)
-- **Power BI** (Data Visualization)
+## 📊 Annual Sales Analysis (Power BI Dashboard)
+**Overview:** This project analyzes annual sales data to identify revenue trends, customer behavior, and key performance indicators. The dashboard provides insights into sales performance using **Power BI**.
+
+**Key Insights:**
+- **Total Revenue:** $29,307,837  
+- **Total Orders:** 91,321  
+- **Average Order Value (AOV):** $320.9  
+- **Top-Selling Category:** Bikes (96.62% of total revenue)  
+- **Top Revenue-Generating Color:** Black ($8.8M), followed by Red ($7.7M)  
+- **Revenue by Gender:** Fairly balanced, with 49.54% from Female customers and 50.46% from Male customers  
+- **Top Customers:** Morgan ($144K in sales) and Ian ($137K in sales)  
+
+🔗 **[Project Repository](https://github.com/LyticOnaope/annual-sales-analysis)**
+
+---
 
 📢 **Connect with Me:**
-- 📍 [LinkedIn](www.linkedin.com/in/onaopemipo-olugbemiro-1b377828b)  
-- 🐦 [Twitter](https://x.com/myboionaope)  
-- 💻 [GitHub](https://github.com/LyticOnaope)  
+- 📍 [LinkedIn]www.linkedin.com/in/onaopemipo-olugbemiro-1b377828b
+- 🐦 [Twitter]
+- 💻 [GitHub]https://github.com/LyticOnaope
 
 🚀 Always open to collaboration and learning!
+
+
+
 
 
