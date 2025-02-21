@@ -14,7 +14,7 @@ Welcome to my portfolio! Here, you'll find my data analysis projects covering va
 - **66.25% of accidents happen in rural areas**
 - Wet road surfaces contribute significantly to accidents
 
-🔗 **[Project Repository](https://github.com/LyticOnaope/road-accident-analysis)**
+🔗 **[Project Repository]** https://github.com/LyticOnaope/road-accident-analysis
 
 ---
 
@@ -30,7 +30,7 @@ Welcome to my portfolio! Here, you'll find my data analysis projects covering va
 - **Revenue by Gender:** Fairly balanced, with 49.54% from Female customers and 50.46% from Male customers  
 - **Top Customers:** Morgan ($144K in sales) and Ian ($137K in sales)  
 
-🔗 [Project Repository] https://github.com/LyticOnaope/annual-sales-analysis
+🔗 **[Project Repository]** https://github.com/LyticOnaope/annual-sales-analysis
 
 ---
 
