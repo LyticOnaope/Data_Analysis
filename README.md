@@ -30,13 +30,13 @@ Welcome to my portfolio! Here, you'll find my data analysis projects covering va
 - **Revenue by Gender:** Fairly balanced, with 49.54% from Female customers and 50.46% from Male customers  
 - **Top Customers:** Morgan ($144K in sales) and Ian ($137K in sales)  
 
-🔗 **[Project Repository](https://github.com/LyticOnaope/annual-sales-analysis)**
+🔗 [Project Repository] https://github.com/LyticOnaope/annual-sales-analysis
 
 ---
 
 📢 **Connect with Me:**
-- 📍 [LinkedIn]www.linkedin.com/in/onaopemipo-olugbemiro-1b377828b
-- 🐦 [Twitter]
+- 📍 [LinkedIn]https://www.linkedin.com/in/onaopemipo-olugbemiro-1b377828b/
+- 🐦 [Twitter]https://x.com/myboionaope
 - 💻 [GitHub]https://github.com/LyticOnaope
 
 🚀 Always open to collaboration and learning!
