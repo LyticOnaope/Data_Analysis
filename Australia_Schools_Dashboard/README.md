@@ -97,7 +97,7 @@ Steady increase in staff numbers across all sectors from 2009 to 2017.
 The Government sector employs the highest percentage of total staff.
 
 📊 Visualization
-![Australia Schools Dashboard]C:\Users\Onaope\OneDrive\Pictures\Onaope_Repository\Australia_Schools_Dashboard
+![Australia Schools Dashboard] C:\Users\Onaope\OneDrive\Pictures\Onaope_Repository\Australia_Schools_Dashboard
 
 
 🎯 Recommendations
