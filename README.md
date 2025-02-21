@@ -35,11 +35,12 @@ Welcome to my portfolio! Here, you'll find my data analysis projects covering va
 - **💰 Total Revenue:** $29.3M
 - **📦 Total Orders:** 91,321
 - **🛒 Average Order Value (AOV):** $320.9
--**📈 Revenue & Orders Growth:** Consistent increase from 2014 to 2016, with a major spike in Q4 2016.
--**🚴 Bikes contribute 96.62% ($28M) of revenue, while Accessories & Clothing contribute only 2.28% ($1M).
--**🎨 Top Selling Colors:** Black ($8.8M), Red ($7.7M), Silver ($5.1M) – Blue has the lowest revenue ($2.3M).
--**👨‍💼 Revenue by Gender:** Males (50.46%) and Females (49.54%) contribute almost equally.
--**🏆 Top Customer (Morgan):** $144.7K in total sales and 435 orders.
+
+- **📈 Revenue & Orders Growth:** Consistent increase from 2014 to 2016, with a major spike in Q4 2016.
+- **🚴 Bikes contribute** 96.62% ($28M) of revenue, while Accessories & Clothing contribute only 2.28% ($1M).
+- **🎨 Top Selling Colors:** Black ($8.8M), Red ($7.7M), Silver ($5.1M) – Blue has the lowest revenue ($2.3M).
+- **👨‍💼 Revenue by Gender:** Males (50.46%) and Females (49.54%) contribute almost equally.
+- **🏆 Top Customer (Morgan):** $144.7K in total sales and 435 orders.
 
 **[Project Repository](https://github.com/LyticOnaope/Onaope_Repository/tree/main/Budget_Analysis_Report)**  
 
