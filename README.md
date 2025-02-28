@@ -45,25 +45,25 @@ Welcome to my portfolio! Here, you'll find my data analysis projects covering va
 **[Project Repository](https://github.com/LyticOnaope/Onaope_Repository/tree/main/Budget_Analysis_Report)**  
 
 ---
-⚠️ Incident Report Analysis (Power BI)
+## ⚠️ Incident Report Analysis (Power BI)
 
-Overview: This Power BI dashboard provides an in-depth analysis of incidents resulting in fatalities and injuries. The dataset highlights the primary causes, severity, and geographical distribution of casualties.
+**Overview:** This Power BI dashboard provides an in-depth analysis of incidents resulting in fatalities and injuries. The dataset highlights the primary causes, severity, and geographical distribution of casualties.
 
-Key Insights:
+## **Key Insights:**
 
-Total Fatalities: 2,405,879
+**Total Fatalities:** 2,405,879
 
-Total Injuries: 303,179
+**Total Injuries:** 303,179
 
-Death Rate: 89%
+**Death Rate:** 89%
 
-Most Deadly Incident Types: Airstrikes (0.88M deaths), Building Collapse (0.56M deaths), Missile Strikes (0.33M deaths)
+**Most Deadly Incident Types:** Airstrikes (0.88M deaths), Building Collapse (0.56M deaths), Missile Strikes (0.33M deaths)
 
-Most Injuries Caused By: Building Collapse (130K injuries), Missile Strikes (82K injuries)
+**Most Injuries Caused By:** Building Collapse (130K injuries), Missile Strikes (82K injuries)
 
 85.31% of fatalities are due to direct conflict & lack of medical access
 
-High-Risk Cities: Gaza City (338K deaths), Deir al-Balah (79K deaths), North Gaza (79K deaths)
+**High-Risk Cities:** Gaza City (338K deaths), Deir al-Balah (79K deaths), North Gaza (79K deaths)
 
 **[Project Repository](https://github.com/LyticOnaope/Onaope_Repository/tree/main/Incident_Report_Analysis)**  
 ## 📢 Connect with Me:  
