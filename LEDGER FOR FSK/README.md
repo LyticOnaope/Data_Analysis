@@ -1,7 +1,7 @@
 # FSK Automated Ledger System
 
 ## 📌 Overview
-The **FSK Automated Ledger System** is a streamlined financial tracking solution designed to manage client accounts effectively. This system enables real-time updates of credit and debit transactions, ensuring accurate and efficient financial record-keeping. Within just **two days** of deployment, it successfully optimized **15+ client accounts**, reducing outstanding debts by **25%** and improving cash flow visibility.
+The **FSK Automated Ledger System** is a streamlined financial tracking solution designed to manage client accounts effectively. This system enables real time updates of credit and debit transactions, ensuring accurate and efficient financial record keeping. Within just **two days** of deployment, it successfully optimized **15+ client accounts**, reducing outstanding debts by **25%** and improving cash flow visibility.
 
 ## 🚀 Features
 - **Automated Balance Updates** – Ensures seamless tracking of credit and debit transactions.
